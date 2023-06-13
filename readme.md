@@ -1,0 +1,2 @@
+# README
+This project aims to clean Amazon sales data, extract meaningful features from the data then a prediction model is created to predict the number of a specific product that will be ordered at a given day. 
